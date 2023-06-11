@@ -25,5 +25,21 @@ namespace PracticeConsoleApp
             double circumference = 2 * Math.PI * a;
             return circumference;
         }
+    
+    
+        public void Sum()
+        {
+            Console.WriteLine("Enter number :");
+            int a = int.Parse(Console.ReadLine());
+            int result = GetSum(a, out int b);
+            Console.WriteLine($"a : {result} and b : {b} ");
+        }
+
+        private int GetSum(int a, out int b)
+        {
+            b = a + 100;//105
+            a = b + 10;
+            return a;
+        }
     }
 }

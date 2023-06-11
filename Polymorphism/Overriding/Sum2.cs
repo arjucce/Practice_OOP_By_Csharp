@@ -1,6 +1,6 @@
-﻿namespace PracticeConsoleApp.Polymorphism
+﻿namespace PracticeConsoleApp.Polymorphism.Overriding
 {
-    internal class Sum2:Calculate
+    internal class Sum2 : Calculate
     {
         public override void Sum()
         {
