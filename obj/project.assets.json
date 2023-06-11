@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\React\\PracticeConsoleApp\\PracticeConsoleApp\\PracticeConsoleApp.csproj",
+      "projectUniqueName": "D:\\Project\\Practice\\PracticeConsoleApp\\PracticeConsoleApp\\PracticeConsoleApp.csproj",
       "projectName": "PracticeConsoleApp",
-      "projectPath": "D:\\Project\\React\\PracticeConsoleApp\\PracticeConsoleApp\\PracticeConsoleApp.csproj",
+      "projectPath": "D:\\Project\\Practice\\PracticeConsoleApp\\PracticeConsoleApp\\PracticeConsoleApp.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\React\\PracticeConsoleApp\\PracticeConsoleApp\\obj\\",
+      "outputPath": "D:\\Project\\Practice\\PracticeConsoleApp\\PracticeConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
